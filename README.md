@@ -8,6 +8,14 @@
 	* Object
 	* Method
 
+_________________________
+RESPONSES
+
+Array: A list of items. They can be numbers, strings, booleans, or a combo. You can add things to the list, remove things, or manipulate the data in the list.
+Object: A thing you can give different properties to then make unique for each object. You can easily make multiple unique objects using the same basic properties. For instance, you can create a person object generically then create a unique object with properties specifc to each user (like a name).
+Method: A function within an object. You can easily call a method using a dot notation.
+_________________________
+
 
 3. Fork and clone this repo.  When you need to commit use the following commands.
 		
